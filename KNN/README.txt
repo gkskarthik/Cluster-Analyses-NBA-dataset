@@ -1,8 +1,5 @@
 README:
 
-NAME:					Karthik Kumarasubramanian
-UTA ID:					1001549999
-
 LANGUAGE USED:				Python.
 VERSION:				Python3.6
 PACKAGES USED:				Pandas, Numpy.
